@@ -1,9 +1,11 @@
-site_name: Epita - Documentation
+site_name: EPITA - Documentation
+theme: readthedocs
+repo_url: https://github.com/cri-epita/doc/
 pages:
   - Accueil: 'index.md'
   - Documentation:
     - Mots de passe: 'passwords.md'
-    - News: 'news.md'
+    - 'news.md'
   - Procédures:
     - Changement de mot de passe: 'change_password.md'
-    - Redump: 'redump.md'
+    - 'redump.md'
