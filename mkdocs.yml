@@ -1,6 +1,6 @@
 site_name: EPITA - Documentation
 theme: readthedocs
-repo_url: https://github.com/cri-epita/doc/
+repo_url: https://github.com/cri-epita/epita-doc/
 pages:
   - Accueil: 'index.md'
   - Documentation:

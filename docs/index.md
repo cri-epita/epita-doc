@@ -10,5 +10,5 @@ consulter les [newsgroups](news.md), et particulièrement cri.news.
 ## Contributions
 
 Pour aider à améliorer cette documentation, les sources sont disponibles sur
-[github](https://github.com/cri-epita/doc/). Les pull requests, concernant
+[github](https://github.com/cri-epita/epita-doc/). Les pull requests, concernant
 aussi bien la forme que le contenu, sont les bienvenues.
