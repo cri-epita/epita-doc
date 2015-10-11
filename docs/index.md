@@ -8,4 +8,4 @@ Pour se tenir au courant des actualités des outils informatiques, il faut consu
 
 ## Contributions
 
-Pour aider à améliorer cette documentation, les sources seront bientôt disponibles sur github. Les pull requests, concernant aussi bien la forme que le contenu, seront les bienvenues.
+Pour aider à améliorer cette documentation, les sources sont disponibles sur [github](https://github.com/cri-epita/doc/). Les pull requests, concernant aussi bien la forme que le contenu, sont les bienvenues.
