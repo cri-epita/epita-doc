@@ -5,4 +5,5 @@ pages:
     - Mots de passe: 'passwords.md'
     - News: 'news.md'
   - Procédures:
+    - Changement de mot de passe: 'change_password.md'
     - Redump: 'redump.md'
