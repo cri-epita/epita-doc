@@ -2,6 +2,7 @@ site_name: Epita - Documentation
 pages:
   - Accueil: 'index.md'
   - Documentation:
+    - Mots de passe: 'passwords.md'
     - News: 'news.md'
   - Procédures:
     - Redump: 'redump.md'
