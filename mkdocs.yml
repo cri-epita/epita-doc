@@ -3,3 +3,5 @@ pages:
   - Accueil: 'index.md'
   - Documentation:
     - News: 'news.md'
+  - Procédures:
+    - Redump: 'redump.md'
