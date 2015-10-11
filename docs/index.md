@@ -4,7 +4,7 @@ Ce site a pour but de mettre à disposition des étudiants de l'Epita de la docu
 
 ## News
 
-Pour se tenir au courant des actualités des outils informatiques, il faut consulter les newsgroups, et particulièrement cri.news.
+Pour se tenir au courant des actualités des outils informatiques, il faut consulter les [newsgroups](news.md), et particulièrement cri.news.
 
 ## Contributions
 
