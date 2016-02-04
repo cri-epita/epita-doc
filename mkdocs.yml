@@ -6,6 +6,7 @@ pages:
   - Documentation:
     - Mots de passe: 'passwords.md'
     - 'news.md'
+    - 'netsoul.md'
   - Procédures:
     - Changement de mot de passe: 'change_password.md'
     - 'redump.md'
