@@ -13,7 +13,7 @@ Il existe de nombreux clients netsoul disponibles sur différentes plateformes :
  * QNetSoul (Linux)
  * etc.
 
-## Diskless / Rack - Archlinux
+## Diskless / Rack - Arch Linux
 
 Jogsoul est présent  avec un wrapper supplémentaire afin d'aider à entrer les identifiants.
 
