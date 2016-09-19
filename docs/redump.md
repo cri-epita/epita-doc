@@ -1,10 +1,10 @@
 # Redump
 
-Redumping allows one to set a default work environment. This can be done on any computer of the IT workstations, located at Villejuif or Le Kremlin-Bicêtre.
+Redumping allows one to set a default work environment. This can be done on any IT workstation located at Villejuif or Le Kremlin-Bicêtre.
 
 **Warning**: All data will be overwritten.
 
-**Warning**: During process, the monitor might go to sleep, the only way to wake it up without disrupting the process is to press the CTRL key.
+**Warning**: During the process, the monitor might go to sleep, the only way to wake it up without disrupting the process is to press the CTRL key.
 
 ## Procedure
 
