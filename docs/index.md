@@ -1,14 +1,11 @@
-# Documentation Epita
+# Home
 
-Ce site a pour but de mettre à disposition des étudiants de l'EPITA de la
-documentation concernant les outils informatiques de l'école. Elle est, pour le
-moment, loin d'être exhaustive mais sera améliorée au cours du temps.
+## Epita documentation
 
-Pour se tenir au courant des actualités des outils informatiques, il faut
-consulter les [newsgroups](news.md), et particulièrement cri.news.
+This site has for purpose to provide EPITA students a documentation regarding IT tools at school. It is, for now, far from being complete, but it will be updated.
+
+To stay tuned about those tools' news, one should refer to [newsgroups](news.md), and especially cri.news.
 
 ## Contributions
 
-Pour aider à améliorer cette documentation, les sources sont disponibles sur
-[github](https://github.com/cri-epita/epita-doc/). Les pull requests, concernant
-aussi bien la forme que le contenu, sont les bienvenues.
+To help keeping this documentation up to date, sources are available on [github](https://github.com/cri-epita/epita-doc/). Pull requests, regarding either style or content, are welcome.
