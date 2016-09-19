@@ -1,6 +1,6 @@
 # Passwords
 
-Until a better harmonisation, students need multiple passwords to use school's diffenrent services. They are handled by the Bocal and the CRI.
+Until a better harmonization, students need multiple passwords to use the school's different services. They are handled by the Bocal and the CRI.
 
 ## Bocal
 
