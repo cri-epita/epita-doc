@@ -1,26 +1,26 @@
-# Redump disque USB
+# Redump
 
-Le redump du disque permet de mettre en place l'environnement de travail initial. Cette opération peut s'effectuer sur tous les postes du PIE, aussi bien à Villejuif qu'au Kremlin-Bicêtre.
+Redumping allows one to set a default work environment. This can be done on any computer of the IT workstations, located at Villejuif or Le Kremlin-Bicêtre.
 
-**Attention**: toutes les données du disque dur seront effacées.
+**Warning**: All data will be overwritten.
 
-**Attention**: lors de l'opération, l'écran peut se mettre en veille. Pour éviter d'interrompre le redump, appuyer *uniquement* sur la touche ctrl pour sortir de la veille.
+**Warning**: During process, the monitor might go to sleep, the only way to wake it up without disrupting the process is to press the CTRL key.
 
-## Procédure
+## Procedure
 
- * Brancher le disque sur un port USB3.
- * Allumer l'ordinateur.
- * Appuyer, à de nombreuses reprises, sur F12 afin de démarrer sur le réseau.
- * Dans le menu du boot réseau, choisir l'option `redump`.
- * Attendre le téléchargement de l'image. Cela peut prendre du temps.
- * Valider en appuyant sur `y` pour commencer le dump
- * Attendre la confirmation du dump
- * Pour effectuer un autre redump, débrancher le disque, en brancher un autre, attendre 30 secondes, choisir l'option `rerun2`. Sinon, éteindre la machine.
+. Plug your disk on an USB-3 port
+. Turn on the computer.
+. Press the F12 key to enter network boot mode.
+. In the network boot menu, choose `redump`
+. Wait for the download to complete. This might take some time.
+. Press `y` to start dumping.
+. Wait for the dump to complete.
+. To dump another disk, unplug the disk, plug another one, wait 30 seconds and choose the `rerun2` option. Else, turn off the computer.
 
-## En cas de problème
+## In case of issue
 
- * Essayer d'effectuer la procédure sur une autre machine.
+. Try with another computer.
 
-## Garantie Western Digital
+## Western Digital warranty.
 
-Les disques Western Digital sont sous garantie. Si le disque est endommagé, il est de la responsabilité de l'étudiant de faire l'échange auprès de Western Digital. Le bocal a mis en place la procédure sur son [intranet](https://intra.bocal.org/index.php?pgid=docvisu&m_doc_id=168).
+Western Digital disks are under warranty. If there is any damage on the disk, it is to the student responsibility to proceed of the exchange with Western Digital. Procedure can be found on the [Bocal intranet](https://intra.bocal.org/index.php?pgid=docvisu&m_doc_id=168).
