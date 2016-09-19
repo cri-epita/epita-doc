@@ -1,27 +1,23 @@
-# Mots de passe
+# Passwords
 
-En attendant une meilleure harmonisation, un étudiant a besoin de nombreux mots
-de passe pour utiliser les différents services de l'école. Ils sont gérés à la
-fois par le bocal et le CRI.
+Until a better harmonisation, students need multiple passwords to use school's diffenrent services. They are handled by the Bocal and the CRI.
 
 ## Bocal
 
-Ils sont donnés par le bocal au début de la scolarité, il y en a quatre :
+They are given by the Bocal at the beginning of the scholarship, there are 4 of them :
 
- * password: pour consulter ses mails et se connecter à ionis portal (wifi)
- * pwd_socks: pour se connecter à netsoul
- * pwd_ppp: pour se connecter sur l'[intranet bocal](http://intra.bocal.org)
- * pwd_num: pour les digicodes
+. password: to check one's emails and to connect to ionis-portal (wifi)
+. pwd_socks: to log on netsoul
+. pwd_ppp: to connect to the [Bocal intranet](http://intral.bocal.org)
+. pwd_num: for digicodes
 
-Pour les nouveaux comptes, crées depuis la rentrée 2016, seul le "password"
-est fourni.
+For new accounts, created after 2016, only "password" is given.
 
 ## Epita
 
-Seuls les étudiants d'INFO-SPE ou d'ING1/ING2 ont reçu ce mot de passe. Il sert
-actuellement pour :
+Only INFO-SPE or ING1/ING2 students are given this password. It serves purposes such as :
 
- * les sessions unix sur le PXE
- * les examens unix (spé, ing1)
- * l'intranet ACU
- * certains ateliers (thlr, algo, etc.)
+. unix sessions on PXE
+. unix exams (spe/ing1)
+. ACU intranet
+. some workshops (thlr, alrorithms, etc...)

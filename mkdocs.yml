@@ -4,10 +4,10 @@ repo_url: https://github.com/cri-epita/epita-doc/
 pages:
   - Home: 'index.md'
   - Documentation:
-    - PIE : 'pie.md'
+    - PIE: 'pie.md'
     - Linux netboot: 'archlinux_netboot.md'
     - AFS: 'afs.md'
-    - Mots de passe: 'passwords.md'
+    - Passwords: 'passwords.md'
     - 'news.md'
     - 'netsoul.md'
   - Procédures:
