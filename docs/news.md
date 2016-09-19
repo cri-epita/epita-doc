@@ -1,18 +1,18 @@
 # News
 
-Les newsgroups sont l'un des moyens officiels de communication à l'Epita.
+Newsgroups are the only official way of communication of Epita.
 
-## Accès
+## Accessibility
 
- * serveur: news.epita.fr
- * port: 119/tcp
- * Pas d'authentification
+. server: news.epita.fr
+. port: 119/tcp
+. No authentication required
 
-Il faut utiliser un client NNTP tel que :
+The NNTP client should be used as followed:
 
- * slrn
- * thunderbird
+. slrn
+. thunderbird
 
-## slrn
+## Slrn
 
-Un tutorial sur l'utilisation de slrn est disponible [ici](http://canartichaut.kawie.fr/essentiel-configuration-slrn/).
+A tutorial is available [here](http://canartichaut.kawie.fr/essentiel-configuration-slrn/).
