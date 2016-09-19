@@ -1,28 +1,20 @@
-# Parc informatique
+# IT Workstation
 
-Les salles machines de Villejuif et du Kremlin-Bicêtre sont disponibles 24/7.
-Il y a deux possibilités pour les utiliser :
+Engine rooms located at Villejuif or Le Kremlin-Bicêtre are available at any time of the day and night. There are two ways of accessing those :
 
- * utiliser un rack / disque USB
- * démarrer en réseau (PXE)
+. Use a rack / USB disk
+. Network boot (Preboot Execution Environment, PXE)
 
-## Rack / Disque USB
+## Rack / USB Disks
 
-L'école propose un "dump" basique avec le nécessaire pour suivre les cours. Il
-est tout de même autorisé de le modifier et d'installer des applications.
-Cependant, il est de la responsabilité de l'étudiant qu'il y ait le nécessaire
-pour suivre les cours/TP dispensés par l'école.
+The school offers a basic "dump" with the necessary tools to follow courses. It is still allowed to modify it and install any application. However, it is up to the student responsibility to ensure that the necessary tools are installed to follow courses given by the school.
 
-En cas de problème, il est possible de [redumper](redump.md) son disque.
+If there is any problem, it is possible to [redump](redump.md) the disk.
 
-## Boot réseau
+## Network boot
 
-Il est également possible de démarrer les machines de l'école directement depuis
-le réseau, sans disque dur.
+It is also possible to boot computers directly from network, without any hard drive.
 
-Les machines sont normalement déjà configurées pour démarrer de cette manière si
-aucun disque n'est detecté mais il est possible de le forcer en appuyant sur la
-touche F12 au démarrage.
+Computers are supposingly already configured to boot this way if no disk is detected, it is still posibble to foce it by pressing the F12 key at boot.
 
-Un menu est ensuite proposé avec notamment la session
-[archlinux](archlinux_netboot.md).
+A menu is then proposed with an [archlinux](archlinux_netboot.md) session.
