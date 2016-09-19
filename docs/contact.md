@@ -16,8 +16,8 @@ To contact the Bocal, one has to create a ticket via the [intranet](http://intra
 
 ## CRI
 
-To contact the CRI, one has to create a ticket by sending mails at tickets@cri.epita.net.
+To contact the CRI, one has to create a ticket by sending a mail at tickets@cri.epita.net.
 
 ## Facebook
 
-Facebook is not a viable way of communication for the school ! Any person trying to contact the CRI via Facebook will be punished.
+Facebook is not a viable way of communication for the school! Any person trying to contact the CRI via Facebook will be punished.
