@@ -1,26 +1,27 @@
 # Netsoul
 
-Netsoul est, entre autre, un protocole d'authentification sur le réseau de l'école. Il est nécessaire pour aller sur internet depuis le réseau câblé (pas nécessaire sur Ionis Portal).
+Netsoul is, among many thingss, an authentication protocol on the school's network. Netsoul is necessary to go on the internet from network-wired computers.
 
-Il faut s'authentifier avec votre login et votre pass SOCKS (voir la rubrique [Mots de passe](passwords.md))
+One has to identify with his login and SOCKS [password](password_anglais.md).
 
 ## Clients
 
-Il existe de nombreux clients netsoul disponibles sur différentes plateformes :
+Multiple client exist on different platforms :
 
- * BnetSoul (Windows)
- * jogsoul (Linux, Windows, etc.)
- * QNetSoul (Linux)
- * etc.
+. BnetSoul (Windows)
+. jogsoul (Linux, Windows, etc...)
+. QNetSoul (Linux)
 
-## Diskless / Rack - Arch Linux
+And more...
 
-Jogsoul est présent  avec un wrapper supplémentaire afin d'aider à entrer les identifiants.
+## Diskless / rack - Arch Linux
 
-Ce wrapper lance une fenêtre graphique si le login/password n'ont jamais été renseignés. Sinon il lance directement jogsoul.
+Jogsoul is present with an additional wrapper to help enter identifiers.
 
-En cas d'erreur lors de la saisie des identifiants, il faut supprimer le fichier _".jogsoul.conf"_  (et non jogsoul.conf) puis relancer `jogsoul`.
+This wrapper launches a graphic interface if login/password have never been inquired. Else, it starts jogsoul directly.
+
+In case of error while typing identifiers, deleting _".jogsoul.conf"_ file (NOT jogsoul.conf !) will allow you to restart `jogsoul`.
 
 ## Racks - Windows
 
-BnetSoul est déjà installé sur le windows présent sur les racks. Il suffit d'y entrer son login/password.
+BnetSoul is already installed on windows. One simply has to enter login and password.
