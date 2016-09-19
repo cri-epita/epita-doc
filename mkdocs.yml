@@ -11,6 +11,6 @@ pages:
     - 'news.md'
     - 'netsoul.md'
   - Procédures:
-    - Changement de mot de passe: 'change_password.md'
+    - Changing password: 'change_password.md'
     - 'redump.md'
   - Contact:  'contact.md'
