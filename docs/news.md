@@ -4,14 +4,14 @@ Newsgroups are the only official way of communication of Epita.
 
 ## Accessibility
 
-. server: news.epita.fr
-. port: 119/tcp
-. No authentication required
+ *  server: news.epita.fr
+ *  port: 119/tcp
+ *  No authentication required
 
 The NNTP client should be used as followed:
 
-. slrn
-. thunderbird
+ *  slrn
+ *  thunderbird
 
 ## Slrn
 

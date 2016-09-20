@@ -2,8 +2,8 @@
 
 Computer rooms located at Villejuif or Le Kremlin-Bicêtre are available at any time - day and night. There are two ways of accessing them:
 
-. Use a rack / USB disk
-. Network boot (Preboot Execution Environment, PXE)
+ *  Use a rack / USB disk
+ *  Network boot (Preboot Execution Environment, PXE)
 
 ## Rack / USB Disks
 

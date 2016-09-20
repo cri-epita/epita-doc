@@ -6,8 +6,8 @@ It is possible to change the *epita* [password](passwords.md).
 
 The password must be as follow:
 
-. At least 10 characters long
-. Should have 3 different case (At least one uppercase character, one lower case, and one numerical character)
+ *  At least 10 characters long
+ *  Should have 3 different case (At least one uppercase character, one lower case, and one numerical character)
 
 ## Procedure
 

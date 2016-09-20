@@ -8,18 +8,18 @@ Redumping allows one to set a default work environment. This can be done on any 
 
 ## Procedure
 
-. Plug your disk on an USB-3 port
-. Turn on the computer.
-. Press the F12 key to enter network boot mode.
-. In the network boot menu, choose `redump`
-. Wait for the download to complete. This might take some time.
-. Press `y` to start dumping.
-. Wait for the dump to complete.
-. To dump another disk, unplug the disk, plug another one, wait 30 seconds and choose the `rerun2` option. Else, turn off the computer.
+ * Plug your disk on an USB-3 port
+ * Turn on the computer.
+ * Press the F12 key to enter network boot mode.
+ * In the network boot menu, choose `redump`
+ * Wait for the download to complete. This might take some time.
+ * Press `y` to start dumping.
+ * Wait for the dump to complete.
+ * To dump another disk, unplug the disk, plug another one, wait 30 seconds and choose the `rerun2` option. Else, turn off the computer.
 
 ## In case of issue
 
-. Try with another computer.
+ * Try with another computer.
 
 ## Western Digital warranty.
 

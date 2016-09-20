@@ -2,15 +2,15 @@
 
 Netsoul is, among many things, an authentication protocol on the school's network. Netsoul is necessary to go on the internet from network-wired computers.
 
-One has to identify with his login and SOCKS [password](password_anglais.md).
+One has to identify with his login and SOCKS [password](passwords.md).
 
 ## Clients
 
 Multiple client exist on different platforms :
 
-. BnetSoul (Windows)
-. jogsoul (Linux, Windows, etc...)
-. QNetSoul (Linux)
+ *  BnetSoul (Windows)
+ *  jogsoul (Linux, Windows, etc...)
+ *  QNetSoul (Linux)
 
 And more...
 
