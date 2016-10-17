@@ -17,3 +17,17 @@ For configuration to be taken into account, the script `/home/login/afs/.confs/i
 Those configuration files being symbolic links, it is identical to modify `/home/my_login/afs/.confs/bashrc` and `/home/my_login/.bashrc`. To see all links, one should type ls -la in his terminal, being in his personnal folder.
 
 It is possible to retrieve initial configuration in the folder : `/afs/cri.epita.net/resources/confs/`.
+
+## Access AFS folder of an other user
+
+If you know the login and password of an user, you can access his afs folder from an other session. It might be useful, for instance, if you can't log in your session because of corrupted config files and want to edit them using the anonym epita account.
+
+To get the rights to edit the content of the afs folder of an user called `login_x`, you shall follow this process :
+
+ * Execute `kinit login_x`
+ * Enter `login_x`'s password
+ * Execute `aklog`
+
+You can then execute `cd /afs/cri.epita.net/user/l/lo/login_x/u/`, read and edit the content of `login_x`'s afs folder.
+
+If you are using the anonym epita account, do not forget to execute `unlog && destroy` to destroy the token before logging out (or to shutdown the computer).
