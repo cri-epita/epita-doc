@@ -27,6 +27,8 @@ To get the rights to edit the content of the afs folder of an user called `login
  * Execute `kinit login_x`
  * Enter `login_x`'s password
  * Execute `aklog`
+ 
+If the user has a login of the form `firstname.lastname` (logins for new users since 2016), the argument for the first step have to be replaced with `kinit firstname_lastname`.
 
 You can then execute `cd /afs/cri.epita.net/user/l/lo/login_x/u/`, read and edit the content of `login_x`'s afs folder.
 
